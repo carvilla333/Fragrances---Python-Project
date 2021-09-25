@@ -12,6 +12,11 @@ Continuing the observation of average ratings, now we take a look at the time of
 ![Story 3](https://user-images.githubusercontent.com/79889633/134753566-2bbafb9a-d9df-4640-9ea3-1f3c2dce7ea7.png)
 
 Distribution of Total Ratings from 1 to 5 for all fragrances.
-![Story 5](https://user-images.githubusercontent.com/79889633/134753598-b5db7a51-be1e-4df9-803d-56f29967a745.png)
+![Story 4](https://user-images.githubusercontent.com/79889633/134753662-1619fc6b-67f4-42b0-8648-dd3907b46b2c.png)
+
 
 Ratings for all occasion comparison from 0 to 100.
+![Story 5](https://user-images.githubusercontent.com/79889633/134753684-14d9a00f-061f-4ed3-8248-37ec30847972.png)
+
+Top 5 fragrances by gender.
+![Story 6](https://user-images.githubusercontent.com/79889633/134753699-45bb7cdf-ff8f-4454-9d0e-7ed590af4f8d.png)
