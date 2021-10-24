@@ -1,7 +1,7 @@
 # Fragrances-Project---Python-Tableau
 
 In this project we have used a dataset from kaggle that includes information regarding 51212 fragrances. Utilizing python to transform our data, and tableau to vizualize our findings. We have examined various aspects related to the season, time of day, ratings, and target gender of the fragrances in order to generate insight into the market. The findings are discussed below.
-
+ 
 The fragrance market when observing gender distribution is comprised of 97.61% women, 2.09% men, and 0.30% unisex for the fragrances being sold today.
 ![Story 1](https://user-images.githubusercontent.com/79889633/134753169-d885054a-ac6a-4bef-b3b0-c7d918676c71.png)
 
