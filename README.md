@@ -1,4 +1,4 @@
-# Fragrances-Project---Python-Tableau
+# Fragrances-Project---Python-Tableau 
 
 In this project we have used a dataset from kaggle that includes information regarding 51212 fragrances. Utilizing python to transform our data, and tableau to vizualize our findings. We have examined various aspects related to the season, time of day, ratings, and target gender of the fragrances in order to generate insight into the market. The findings are discussed below.
  
